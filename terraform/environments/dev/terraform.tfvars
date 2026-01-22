@@ -1,5 +1,5 @@
 aws_region  = "us-east-1"
-bucket_name = "replace-with-unique-bucket-name"
+bucket_name = "test-rohan-new-bayer"
 
 # Example tags
 # tags = {
